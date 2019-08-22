@@ -66,6 +66,10 @@
         }
       }
     },
+      "undefined": {
+        "type": "email"
+      }
+    },
     "customTemplate": {
       "dialect": null,
       "definitions": {}
